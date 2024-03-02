@@ -1,0 +1,9 @@
+# build artifacts
+vendor/
+.bundle/
+Gemfile.lock
+*.html
+*_build.sh
+/images/
+release_github_io.sh
+.vscode/
